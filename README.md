@@ -2,4 +2,4 @@
 
 repositório de apredizagem
 
-So um cara normal '-'
+Sou um cara normal '-'
